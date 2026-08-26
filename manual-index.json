@@ -1,0 +1,2365 @@
+{
+  "base_url": "https://download.insyn.se/Insyn/Bruksanvisning/",
+  "count": 337,
+  "files": [
+    {
+      "path": "Acapela/3-5700_Manual Infovox 4.pdf",
+      "name": "3-5700_Manual Infovox 4.pdf",
+      "directory": "Acapela",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Acapela/3-5700_Manual%20Infovox%204.pdf"
+    },
+    {
+      "path": "Aurdel/Monteringsanvisning 7-91902357 Bordstativ till telefon_surfplatta.pdf",
+      "name": "Monteringsanvisning 7-91902357 Bordstativ till telefon_surfplatta.pdf",
+      "directory": "Aurdel",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Aurdel/Monteringsanvisning%207-91902357%20Bordstativ%20till%20telefon_surfplatta.pdf"
+    },
+    {
+      "path": "Aurdel/Monteringsanvisning 7-91902359 Låsbar VESA-adapterklämma för surfplatto.pdf",
+      "name": "Monteringsanvisning 7-91902359 Låsbar VESA-adapterklämma för surfplatto.pdf",
+      "directory": "Aurdel",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Aurdel/Monteringsanvisning%207-91902359%20L%C3%A5sbar%20VESA-adapterkl%C3%A4mma%20f%C3%B6r%20surfplatto.pdf"
+    },
+    {
+      "path": "Chris Park/1-2300_i-loview.pdf",
+      "name": "1-2300_i-loview.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2300_i-loview.pdf"
+    },
+    {
+      "path": "Chris Park/1-2310_i-loview_more.pdf",
+      "name": "1-2310_i-loview_more.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2310_i-loview_more.pdf"
+    },
+    {
+      "path": "Chris Park/1-2320 i-loview HD 7.pdf",
+      "name": "1-2320 i-loview HD 7.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2320%20i-loview%20HD%207.pdf"
+    },
+    {
+      "path": "Chris Park/1-2355_Manual i-loview 13_2 premium.pdf",
+      "name": "1-2355_Manual i-loview 13_2 premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2355_Manual%20i-loview%2013_2%20premium.pdf"
+    },
+    {
+      "path": "Chris Park/1-2370_Manual i-loview 16_4.pdf",
+      "name": "1-2370_Manual i-loview 16_4.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2370_Manual%20i-loview%2016_4.pdf"
+    },
+    {
+      "path": "Chris Park/1-2375_Manual i-loview 16_2 premium.pdf",
+      "name": "1-2375_Manual i-loview 16_2 premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2375_Manual%20i-loview%2016_2%20premium.pdf"
+    },
+    {
+      "path": "Chris Park/1-2390_Manual i-loview MAX Premium.pdf",
+      "name": "1-2390_Manual i-loview MAX Premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/1-2390_Manual%20i-loview%20MAX%20Premium.pdf"
+    },
+    {
+      "path": "Chris Park/Bruksanvisning i-loview 13_3 premium.pdf",
+      "name": "Bruksanvisning i-loview 13_3 premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Bruksanvisning%20i-loview%2013_3%20premium.pdf"
+    },
+    {
+      "path": "Chris Park/Bruksanvisning i-loview 13_9B.pdf",
+      "name": "Bruksanvisning i-loview 13_9B.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Bruksanvisning%20i-loview%2013_9B.pdf"
+    },
+    {
+      "path": "Chris Park/Bruksanvisning i-loview 16_3 premium.pdf",
+      "name": "Bruksanvisning i-loview 16_3 premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Bruksanvisning%20i-loview%2016_3%20premium.pdf"
+    },
+    {
+      "path": "Chris Park/Bruksanvisning i-loview MAX Premium Silver.pdf",
+      "name": "Bruksanvisning i-loview MAX Premium Silver.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Bruksanvisning%20i-loview%20MAX%20Premium%20Silver.pdf"
+    },
+    {
+      "path": "Chris Park/Bruksanvisning i-loview MAX Premium.pdf",
+      "name": "Bruksanvisning i-loview MAX Premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Bruksanvisning%20i-loview%20MAX%20Premium.pdf"
+    },
+    {
+      "path": "Chris Park/Bruksanvisning i-loview Premium.pdf",
+      "name": "Bruksanvisning i-loview Premium.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Bruksanvisning%20i-loview%20Premium.pdf"
+    },
+    {
+      "path": "Chris Park/i-loview 13-17  Lathund 18p.pdf",
+      "name": "i-loview 13-17  Lathund 18p.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/i-loview%2013-17%20%20Lathund%2018p.pdf"
+    },
+    {
+      "path": "Chris Park/i-loview FHD Premium anslutning externa källor.pdf",
+      "name": "i-loview FHD Premium anslutning externa källor.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/i-loview%20FHD%20Premium%20anslutning%20externa%20k%C3%A4llor.pdf"
+    },
+    {
+      "path": "Chris Park/Manual i-loview 13_7.pdf",
+      "name": "Manual i-loview 13_7.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Manual%20i-loview%2013_7.pdf"
+    },
+    {
+      "path": "Chris Park/Manual i-loview 13_7B.pdf",
+      "name": "Manual i-loview 13_7B.pdf",
+      "directory": "Chris Park",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Chris%20Park/Manual%20i-loview%2013_7B.pdf"
+    },
+    {
+      "path": "Daylight/Bruksanvisning Lumi.pdf",
+      "name": "Bruksanvisning Lumi.pdf",
+      "directory": "Daylight",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Daylight/Bruksanvisning%20Lumi.pdf"
+    },
+    {
+      "path": "Daylight/Bruksanvisning Tricolor.pdf",
+      "name": "Bruksanvisning Tricolor.pdf",
+      "directory": "Daylight",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Daylight/Bruksanvisning%20Tricolor.pdf"
+    },
+    {
+      "path": "Diverse/1-2010_Strix anvandarhandbok.pdf",
+      "name": "1-2010_Strix anvandarhandbok.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/1-2010_Strix%20anvandarhandbok.pdf"
+    },
+    {
+      "path": "Diverse/1-2020_SenseView P430.pdf",
+      "name": "1-2020_SenseView P430.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/1-2020_SenseView%20P430.pdf"
+    },
+    {
+      "path": "Diverse/4-1092 FineReader 14 Manual  Eng.pdf",
+      "name": "4-1092 FineReader 14 Manual  Eng.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/4-1092%20FineReader%2014%20Manual%20%20Eng.pdf"
+    },
+    {
+      "path": "Diverse/BraillePen12 SV.pdf",
+      "name": "BraillePen12 SV.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/BraillePen12%20SV.pdf"
+    },
+    {
+      "path": "Diverse/Finereader 12 Manual.pdf",
+      "name": "Finereader 12 Manual.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Finereader%2012%20Manual.pdf"
+    },
+    {
+      "path": "Diverse/Gamla Solo Manual svensk.pdf",
+      "name": "Gamla Solo Manual svensk.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Gamla%20Solo%20Manual%20svensk.pdf"
+    },
+    {
+      "path": "Diverse/insyn_kapten_mobility_manual.pdf",
+      "name": "insyn_kapten_mobility_manual.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/insyn_kapten_mobility_manual.pdf"
+    },
+    {
+      "path": "Diverse/Lightningv2Manual.pdf",
+      "name": "Lightningv2Manual.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Lightningv2Manual.pdf"
+    },
+    {
+      "path": "Diverse/Magic 12  Snabbguide.pdf",
+      "name": "Magic 12  Snabbguide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Magic%2012%20%20Snabbguide.pdf"
+    },
+    {
+      "path": "Diverse/Magic 13 Snabbguide.pdf",
+      "name": "Magic 13 Snabbguide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Magic%2013%20Snabbguide.pdf"
+    },
+    {
+      "path": "Diverse/MAGic 13 Snabbstart guide.pdf",
+      "name": "MAGic 13 Snabbstart guide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/MAGic%2013%20Snabbstart%20guide.pdf"
+    },
+    {
+      "path": "Diverse/Magic 13 Tal Snabbguide.pdf",
+      "name": "Magic 13 Tal Snabbguide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Magic%2013%20Tal%20Snabbguide.pdf"
+    },
+    {
+      "path": "Diverse/Magic Snabbguide.pdf",
+      "name": "Magic Snabbguide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Magic%20Snabbguide.pdf"
+    },
+    {
+      "path": "Diverse/Milestone 312 Lathund.pdf",
+      "name": "Milestone 312 Lathund.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Milestone%20312%20Lathund.pdf"
+    },
+    {
+      "path": "Diverse/Mobile Speak 4 Anvandarguide - Symbian.pdf",
+      "name": "Mobile Speak 4 Anvandarguide - Symbian.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Mobile%20Speak%204%20Anvandarguide%20-%20Symbian.pdf"
+    },
+    {
+      "path": "Diverse/Mobile Speak 5.6 Användarguide.pdf",
+      "name": "Mobile Speak 5.6 Användarguide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Mobile%20Speak%205.6%20Anv%C3%A4ndarguide.pdf"
+    },
+    {
+      "path": "Diverse/Omnipage 16 och word 2007.pdf",
+      "name": "Omnipage 16 och word 2007.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Omnipage%2016%20och%20word%202007.pdf"
+    },
+    {
+      "path": "Diverse/OP18 Guide.pdf",
+      "name": "OP18 Guide.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/OP18%20Guide.pdf"
+    },
+    {
+      "path": "Diverse/Poet anvandarmanual svensk 3.pdf",
+      "name": "Poet anvandarmanual svensk 3.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Poet%20anvandarmanual%20svensk%203.pdf"
+    },
+    {
+      "path": "Diverse/Snabbmanual FineReader Pro 12 och skanner.pdf",
+      "name": "Snabbmanual FineReader Pro 12 och skanner.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Snabbmanual%20FineReader%20Pro%2012%20och%20skanner.pdf"
+    },
+    {
+      "path": "Diverse/Zoomax Hd 5 plus.pdf",
+      "name": "Zoomax Hd 5 plus.pdf",
+      "directory": "Diverse",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Diverse/Zoomax%20Hd%205%20plus.pdf"
+    },
+    {
+      "path": "DOT/Bruksanvisning Dot Pad X.pdf",
+      "name": "Bruksanvisning Dot Pad X.pdf",
+      "directory": "DOT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/DOT/Bruksanvisning%20Dot%20Pad%20X.pdf"
+    },
+    {
+      "path": "Eschenbach/6-36551_Bruksanvisning Visolux Digital HD.pdf",
+      "name": "6-36551_Bruksanvisning Visolux Digital HD.pdf",
+      "directory": "Eschenbach",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/6-36551_Bruksanvisning%20Visolux%20Digital%20HD.pdf"
+    },
+    {
+      "path": "Eschenbach/manual_basic visionLED_-_04-19.pdf",
+      "name": "manual_basic visionLED_-_04-19.pdf",
+      "directory": "Eschenbach",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/manual_basic%20visionLED_-_04-19.pdf"
+    },
+    {
+      "path": "Eschenbach/manual_economy visionLED_-_04-19.pdf",
+      "name": "manual_economy visionLED_-_04-19.pdf",
+      "directory": "Eschenbach",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/manual_economy%20visionLED_-_04-19.pdf"
+    },
+    {
+      "path": "Eschenbach/manual_pure visionLED_-_04-19.pdf",
+      "name": "manual_pure visionLED_-_04-19.pdf",
+      "directory": "Eschenbach",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/manual_pure%20visionLED_-_04-19.pdf"
+    },
+    {
+      "path": "Freedom/1-3050_Bruksanvisning RUBY 10.pdf",
+      "name": "1-3050_Bruksanvisning RUBY 10.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3050_Bruksanvisning%20RUBY%2010.pdf"
+    },
+    {
+      "path": "Freedom/1-3055_Bruksanvisning RUBY 10 OCR.pdf",
+      "name": "1-3055_Bruksanvisning RUBY 10 OCR.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3055_Bruksanvisning%20RUBY%2010%20OCR.pdf"
+    },
+    {
+      "path": "Freedom/1-3057_RUBY Manual.pdf",
+      "name": "1-3057_RUBY Manual.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3057_RUBY%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/1-3059_Bruksanvisning RUBY 5 XL HD.pdf",
+      "name": "1-3059_Bruksanvisning RUBY 5 XL HD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3059_Bruksanvisning%20RUBY%205%20XL%20HD.pdf"
+    },
+    {
+      "path": "Freedom/1-3059_RUBY 5 XL HD Lathund.pdf",
+      "name": "1-3059_RUBY 5 XL HD Lathund.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3059_RUBY%205%20XL%20HD%20Lathund.pdf"
+    },
+    {
+      "path": "Freedom/1-3067_Bruksanvisning RUBY HD.pdf",
+      "name": "1-3067_Bruksanvisning RUBY HD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3067_Bruksanvisning%20RUBY%20HD.pdf"
+    },
+    {
+      "path": "Freedom/1-3067_Lathund RUBY HD.pdf",
+      "name": "1-3067_Lathund RUBY HD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3067_Lathund%20RUBY%20HD.pdf"
+    },
+    {
+      "path": "Freedom/1-3068_Bruksanvisning RUBY 7 HD 2.1.pdf",
+      "name": "1-3068_Bruksanvisning RUBY 7 HD 2.1.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3068_Bruksanvisning%20RUBY%207%20HD%202.1.pdf"
+    },
+    {
+      "path": "Freedom/1-3068_RUBY 7 HD Lathund.pdf",
+      "name": "1-3068_RUBY 7 HD Lathund.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3068_RUBY%207%20HD%20Lathund.pdf"
+    },
+    {
+      "path": "Freedom/1-3069_Manual RUBY XL HD Svart.pdf",
+      "name": "1-3069_Manual RUBY XL HD Svart.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3069_Manual%20RUBY%20XL%20HD%20Svart.pdf"
+    },
+    {
+      "path": "Freedom/1-3077_Manual RUBY HD Svart.pdf",
+      "name": "1-3077_Manual RUBY HD Svart.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3077_Manual%20RUBY%20HD%20Svart.pdf"
+    },
+    {
+      "path": "Freedom/1-3078_Manual RUBY 7 HD Svart 2.2.pdf",
+      "name": "1-3078_Manual RUBY 7 HD Svart 2.2.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3078_Manual%20RUBY%207%20HD%20Svart%202.2.pdf"
+    },
+    {
+      "path": "Freedom/1-3190_Lathund ONYX 18p.pdf",
+      "name": "1-3190_Lathund ONYX 18p.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3190_Lathund%20ONYX%2018p.pdf"
+    },
+    {
+      "path": "Freedom/1-3190_Lathund ONYX.pdf",
+      "name": "1-3190_Lathund ONYX.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3190_Lathund%20ONYX.pdf"
+    },
+    {
+      "path": "Freedom/1-3190_Manual ONYX HD.pdf",
+      "name": "1-3190_Manual ONYX HD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3190_Manual%20ONYX%20HD.pdf"
+    },
+    {
+      "path": "Freedom/1-3200_15355_Manual OpenBook och ONYX PHD.pdf",
+      "name": "1-3200_15355_Manual OpenBook och ONYX PHD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3200_15355_Manual%20OpenBook%20och%20ONYX%20PHD.pdf"
+    },
+    {
+      "path": "Freedom/1-3200_Manual ONYX PHD.pdf",
+      "name": "1-3200_Manual ONYX PHD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3200_Manual%20ONYX%20PHD.pdf"
+    },
+    {
+      "path": "Freedom/1-3422_Manual TOPAZ HD 20.pdf",
+      "name": "1-3422_Manual TOPAZ HD 20.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3422_Manual%20TOPAZ%20HD%2020.pdf"
+    },
+    {
+      "path": "Freedom/1-3424_Manual TOPAZ HD 22.pdf",
+      "name": "1-3424_Manual TOPAZ HD 22.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3424_Manual%20TOPAZ%20HD%2022.pdf"
+    },
+    {
+      "path": "Freedom/1-3426_Manual TOPAZ HD 24.pdf",
+      "name": "1-3426_Manual TOPAZ HD 24.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3426_Manual%20TOPAZ%20HD%2024.pdf"
+    },
+    {
+      "path": "Freedom/1-34XX_Lathund TOPAZ HD.pdf",
+      "name": "1-34XX_Lathund TOPAZ HD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-34XX_Lathund%20TOPAZ%20HD.pdf"
+    },
+    {
+      "path": "Freedom/1-3524_Manual TOPAZ XL FHD 22.pdf",
+      "name": "1-3524_Manual TOPAZ XL FHD 22.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3524_Manual%20TOPAZ%20XL%20FHD%2022.pdf"
+    },
+    {
+      "path": "Freedom/1-3526_Manual TOPAZ XL FHD 24.pdf",
+      "name": "1-3526_Manual TOPAZ XL FHD 24.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3526_Manual%20TOPAZ%20XL%20FHD%2024.pdf"
+    },
+    {
+      "path": "Freedom/1-35XX_Lathund TOPAZ XL FHD.pdf",
+      "name": "1-35XX_Lathund TOPAZ XL FHD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-35XX_Lathund%20TOPAZ%20XL%20FHD.pdf"
+    },
+    {
+      "path": "Freedom/1-35XX_Manual TOPAZ XL FHD.pdf",
+      "name": "1-35XX_Manual TOPAZ XL FHD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-35XX_Manual%20TOPAZ%20XL%20FHD.pdf"
+    },
+    {
+      "path": "Freedom/1-3810_Pebble-HD2-Användarhandbok-SV_190611_1.pdf",
+      "name": "1-3810_Pebble-HD2-Användarhandbok-SV_190611_1.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-3810_Pebble-HD2-Anv%C3%A4ndarhandbok-SV_190611_1.pdf"
+    },
+    {
+      "path": "Freedom/1-5314_Manual FOCUS 14 Blue V5_3.pdf",
+      "name": "1-5314_Manual FOCUS 14 Blue V5_3.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5314_Manual%20FOCUS%2014%20Blue%20V5_3.pdf"
+    },
+    {
+      "path": "Freedom/1-5340_Manual FOCUS 40 Blue V5_4.pdf",
+      "name": "1-5340_Manual FOCUS 40 Blue V5_4.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5340_Manual%20FOCUS%2040%20Blue%20V5_4.pdf"
+    },
+    {
+      "path": "Freedom/1-5345_Manual FOCUS 40 BU V5_2.pdf",
+      "name": "1-5345_Manual FOCUS 40 BU V5_2.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5345_Manual%20FOCUS%2040%20BU%20V5_2.pdf"
+    },
+    {
+      "path": "Freedom/1-5348_Snabbguide PEARL.pdf",
+      "name": "1-5348_Snabbguide PEARL.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5348_Snabbguide%20PEARL.pdf"
+    },
+    {
+      "path": "Freedom/1-5350_Snabbguide PEARL OpenBook.pdf",
+      "name": "1-5350_Snabbguide PEARL OpenBook.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5350_Snabbguide%20PEARL%20OpenBook.pdf"
+    },
+    {
+      "path": "Freedom/1-5355_Manual OpenBook och Pearl.pdf",
+      "name": "1-5355_Manual OpenBook och Pearl.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5355_Manual%20OpenBook%20och%20Pearl.pdf"
+    },
+    {
+      "path": "Freedom/1-5355_OpenBook Kortkommandon.pdf",
+      "name": "1-5355_OpenBook Kortkommandon.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5355_OpenBook%20Kortkommandon.pdf"
+    },
+    {
+      "path": "Freedom/1-5355_Snabbguide OpenBook.pdf",
+      "name": "1-5355_Snabbguide OpenBook.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5355_Snabbguide%20OpenBook.pdf"
+    },
+    {
+      "path": "Freedom/1-5380_Manual FOCUS 80 Blue V5_2.pdf",
+      "name": "1-5380_Manual FOCUS 80 Blue V5_2.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5380_Manual%20FOCUS%2080%20Blue%20V5_2.pdf"
+    },
+    {
+      "path": "Freedom/1-53XX_Focus 5 Installation och användning.pdf",
+      "name": "1-53XX_Focus 5 Installation och användning.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-53XX_Focus%205%20Installation%20och%20anv%C3%A4ndning.pdf"
+    },
+    {
+      "path": "Freedom/1-53XX_Focus 5 Rengöringsprocedur.pdf",
+      "name": "1-53XX_Focus 5 Rengöringsprocedur.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-53XX_Focus%205%20Reng%C3%B6ringsprocedur.pdf"
+    },
+    {
+      "path": "Freedom/1-53XX_Focus 5 Snabbstartskort.pdf",
+      "name": "1-53XX_Focus 5 Snabbstartskort.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-53XX_Focus%205%20Snabbstartskort.pdf"
+    },
+    {
+      "path": "Freedom/1-53XX_Focus 5 Säkerhet och underhåll.pdf",
+      "name": "1-53XX_Focus 5 Säkerhet och underhåll.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-53XX_Focus%205%20S%C3%A4kerhet%20och%20underh%C3%A5ll.pdf"
+    },
+    {
+      "path": "Freedom/1-5400_Bruksanvisning Eyepal ACE.pdf",
+      "name": "1-5400_Bruksanvisning Eyepal ACE.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5400_Bruksanvisning%20Eyepal%20ACE.pdf"
+    },
+    {
+      "path": "Freedom/1-5420_Bruksanvisning OmniReader.pdf",
+      "name": "1-5420_Bruksanvisning OmniReader.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5420_Bruksanvisning%20OmniReader.pdf"
+    },
+    {
+      "path": "Freedom/1-5420_Lathund OmniReader.pdf",
+      "name": "1-5420_Lathund OmniReader.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5420_Lathund%20OmniReader.pdf"
+    },
+    {
+      "path": "Freedom/1-5450_Bruksanvisning Smart Reader 2.pdf",
+      "name": "1-5450_Bruksanvisning Smart Reader 2.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5450_Bruksanvisning%20Smart%20Reader%202.pdf"
+    },
+    {
+      "path": "Freedom/1-5450_Smart Reader HD Snabbstart.pdf",
+      "name": "1-5450_Smart Reader HD Snabbstart.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/1-5450_Smart%20Reader%20HD%20Snabbstart.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning FOCUS Blue V5_5 Tryckning.pdf",
+      "name": "Bruksanvisning FOCUS Blue V5_5 Tryckning.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20FOCUS%20Blue%20V5_5%20Tryckning.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning FOCUS Blue V5_5.pdf",
+      "name": "Bruksanvisning FOCUS Blue V5_5.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20FOCUS%20Blue%20V5_5.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning RUBY 10 OCR.pdf",
+      "name": "Bruksanvisning RUBY 10 OCR.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20RUBY%2010%20OCR.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning RUBY 10 OCR_1B.pdf",
+      "name": "Bruksanvisning RUBY 10 OCR_1B.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20RUBY%2010%20OCR_1B.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning RUBY 10.pdf",
+      "name": "Bruksanvisning RUBY 10.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20RUBY%2010.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning RUBY 10__1B.pdf",
+      "name": "Bruksanvisning RUBY 10__1B.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20RUBY%2010__1B.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning RUBY 7 HD 2.3.pdf",
+      "name": "Bruksanvisning RUBY 7 HD 2.3.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20RUBY%207%20HD%202.3.pdf"
+    },
+    {
+      "path": "Freedom/Bruksanvisning RUBY HD.pdf",
+      "name": "Bruksanvisning RUBY HD.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Bruksanvisning%20RUBY%20HD.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/1-3086 ONYX Deskset XL 17 Manual.pdf",
+      "name": "1-3086 ONYX Deskset XL 17 Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/1-3086%20ONYX%20Deskset%20XL%2017%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/1-3097 ONYX Deskset XL Manual.pdf",
+      "name": "1-3097 ONYX Deskset XL Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/1-3097%20ONYX%20Deskset%20XL%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/1-3200 ONYX PHD Lathund.pdf",
+      "name": "1-3200 ONYX PHD Lathund.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/1-3200%20ONYX%20PHD%20Lathund.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Eyepal ROL Manual.pdf",
+      "name": "Eyepal ROL Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Eyepal%20ROL%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Focus-14-Blue-manual.pdf",
+      "name": "Focus-14-Blue-manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Focus-14-Blue-manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Focus-40-Blue-Manual.pdf",
+      "name": "Focus-40-Blue-Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Focus-40-Blue-Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Focus-80-Blue-Anvandarmanual.pdf",
+      "name": "Focus-80-Blue-Anvandarmanual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Focus-80-Blue-Anvandarmanual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/Installera JAWS PLUS.pdf",
+      "name": "Installera JAWS PLUS.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/Installera%20JAWS%20PLUS.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/Installera JAWS.pdf",
+      "name": "Installera JAWS.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/Installera%20JAWS.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 13 manual.doc",
+      "name": "JAWS 13 manual.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2013%20manual.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 13 manual.pdf",
+      "name": "JAWS 13 manual.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2013%20manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 14 Snabbmanual.doc",
+      "name": "JAWS 14 Snabbmanual.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2014%20Snabbmanual.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 14 Snabbmanual.pdf",
+      "name": "JAWS 14 Snabbmanual.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2014%20Snabbmanual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 14 Snabbtangenter.doc",
+      "name": "JAWS 14 Snabbtangenter.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2014%20Snabbtangenter.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 14 Snabbtangenter.pdf",
+      "name": "JAWS 14 Snabbtangenter.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2014%20Snabbtangenter.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 15 Snabbmanual.doc",
+      "name": "JAWS 15 Snabbmanual.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2015%20Snabbmanual.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 15 Snabbmanual.pdf",
+      "name": "JAWS 15 Snabbmanual.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2015%20Snabbmanual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 15 Snabbtangenter.doc",
+      "name": "JAWS 15 Snabbtangenter.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2015%20Snabbtangenter.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 15 Snabbtangenter.pdf",
+      "name": "JAWS 15 Snabbtangenter.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2015%20Snabbtangenter.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 16 Snabbmanual.doc",
+      "name": "JAWS 16 Snabbmanual.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2016%20Snabbmanual.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 16 Snabbmanual.pdf",
+      "name": "JAWS 16 Snabbmanual.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2016%20Snabbmanual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 16 Snabbtangenter.doc",
+      "name": "JAWS 16 Snabbtangenter.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2016%20Snabbtangenter.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 16 Snabbtangenter.pdf",
+      "name": "JAWS 16 Snabbtangenter.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2016%20Snabbtangenter.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 17 Kort kommandon.doc",
+      "name": "JAWS 17 Kort kommandon.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2017%20Kort%20kommandon.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 17 Kort kommandon.pdf",
+      "name": "JAWS 17 Kort kommandon.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2017%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 17 Snabb Start Guide.doc",
+      "name": "JAWS 17 Snabb Start Guide.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2017%20Snabb%20Start%20Guide.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 17 Snabb Start Guide.pdf",
+      "name": "JAWS 17 Snabb Start Guide.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2017%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 18 Kort kommandon.pdf",
+      "name": "JAWS 18 Kort kommandon.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2018%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS 18 Snabb Start Guide.pdf",
+      "name": "JAWS 18 Snabb Start Guide.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%2018%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS Plus Manual.pdf",
+      "name": "JAWS Plus Manual.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS%20Plus%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS_Snabbstart 11.pdf",
+      "name": "JAWS_Snabbstart 11.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS_Snabbstart%2011.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS_Snabbstart_11.doc",
+      "name": "JAWS_Snabbstart_11.doc",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS_Snabbstart_11.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/JAWS/JAWS_Snabbstart_11.pdf",
+      "name": "JAWS_Snabbstart_11.pdf",
+      "directory": "Freedom/Gamla modeller/JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/JAWS/JAWS_Snabbstart_11.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Manual GEM 2.0.pdf",
+      "name": "Manual GEM 2.0.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Manual%20GEM%202.0.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Old ONYX Deskset HD Manual.pdf",
+      "name": "Old ONYX Deskset HD Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Old%20ONYX%20Deskset%20HD%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/ONYX Deskset XL Manual.pdf",
+      "name": "ONYX Deskset XL Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/ONYX%20Deskset%20XL%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/ONYX DESKSET XL.pdf",
+      "name": "ONYX DESKSET XL.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/ONYX%20DESKSET%20XL.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/SARA CE Anvandarmanual.pdf",
+      "name": "SARA CE Anvandarmanual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/SARA%20CE%20Anvandarmanual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/SARA Manual.pdf",
+      "name": "SARA Manual.pdf",
+      "directory": "Freedom/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/SARA%20Manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/insyn_zoom_text_manual.pdf",
+      "name": "insyn_zoom_text_manual.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/insyn_zoom_text_manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/insyn_zoomText_mac_manual.pdf",
+      "name": "insyn_zoomText_mac_manual.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/insyn_zoomText_mac_manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/Manual ZT10_1_Fusion.pdf",
+      "name": "Manual ZT10_1_Fusion.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/Manual%20ZT10_1_Fusion.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/zoom_text_manual.pdf",
+      "name": "zoom_text_manual.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/zoom_text_manual.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/Zoomtext 9.1 Snabbguide.pdf",
+      "name": "Zoomtext 9.1 Snabbguide.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/Zoomtext%209.1%20Snabbguide.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/ZT10.1_QRG_Swedish.pdf",
+      "name": "ZT10.1_QRG_Swedish.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/ZT10.1_QRG_Swedish.pdf"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/zt10_QRG_Swedish.doc",
+      "name": "zt10_QRG_Swedish.doc",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "doc",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/zt10_QRG_Swedish.doc"
+    },
+    {
+      "path": "Freedom/Gamla modeller/Zoomtext/zt10_QRG_Swedish.pdf",
+      "name": "zt10_QRG_Swedish.pdf",
+      "directory": "Freedom/Gamla modeller/Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Gamla%20modeller/Zoomtext/zt10_QRG_Swedish.pdf"
+    },
+    {
+      "path": "Freedom/Kom igång RUBY 10.pdf",
+      "name": "Kom igång RUBY 10.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Kom%20ig%C3%A5ng%20RUBY%2010.pdf"
+    },
+    {
+      "path": "Freedom/Zoomtext tangentbord anvisning.pdf",
+      "name": "Zoomtext tangentbord anvisning.pdf",
+      "directory": "Freedom",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Zoomtext%20tangentbord%20anvisning.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2018.pdf",
+      "name": "Snabbstart Fusion 2018.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202018.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2019.pdf",
+      "name": "Snabbstart Fusion 2019.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202019.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2020.pdf",
+      "name": "Snabbstart Fusion 2020.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202020.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2021.pdf",
+      "name": "Snabbstart Fusion 2021.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202021.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2022.pdf",
+      "name": "Snabbstart Fusion 2022.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202022.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2023.pdf",
+      "name": "Snabbstart Fusion 2023.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202023.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion 2024.pdf",
+      "name": "Snabbstart Fusion 2024.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion%202024.pdf"
+    },
+    {
+      "path": "Fusion/Snabbstart Fusion.pdf",
+      "name": "Snabbstart Fusion.pdf",
+      "directory": "Fusion",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Fusion/Snabbstart%20Fusion.pdf"
+    },
+    {
+      "path": "Glamox/Bruksanvisning LFM LED G2.pdf",
+      "name": "Bruksanvisning LFM LED G2.pdf",
+      "directory": "Glamox",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Glamox/Bruksanvisning%20LFM%20LED%20G2.pdf"
+    },
+    {
+      "path": "Harpo/1-5710_Bruksanvisning MB Tutor.pdf",
+      "name": "1-5710_Bruksanvisning MB Tutor.pdf",
+      "directory": "Harpo",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Harpo/1-5710_Bruksanvisning%20MB%20Tutor.pdf"
+    },
+    {
+      "path": "Harpo/1-5710_Snabbstart MB Tutor.pdf",
+      "name": "1-5710_Snabbstart MB Tutor.pdf",
+      "directory": "Harpo",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Harpo/1-5710_Snabbstart%20MB%20Tutor.pdf"
+    },
+    {
+      "path": "Harpo/1-5740_Bruksanvisning PIAF.pdf",
+      "name": "1-5740_Bruksanvisning PIAF.pdf",
+      "directory": "Harpo",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Harpo/1-5740_Bruksanvisning%20PIAF.pdf"
+    },
+    {
+      "path": "Harpo/Mountbatten Whisperer.pdf",
+      "name": "Mountbatten Whisperer.pdf",
+      "directory": "Harpo",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Harpo/Mountbatten%20Whisperer.pdf"
+    },
+    {
+      "path": "Hims/Bruksanvisning Braille eMotion 40.pdf",
+      "name": "Bruksanvisning Braille eMotion 40.pdf",
+      "directory": "Hims",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20Braille%20eMotion%2040.pdf"
+    },
+    {
+      "path": "Hims/Bruksanvisning BrailleSense 6.pdf",
+      "name": "Bruksanvisning BrailleSense 6.pdf",
+      "directory": "Hims",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20BrailleSense%206.pdf"
+    },
+    {
+      "path": "Hims/Bruksanvisning GoVision.pdf",
+      "name": "Bruksanvisning GoVision.pdf",
+      "directory": "Hims",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20GoVision.pdf"
+    },
+    {
+      "path": "Index/1-5520_Bruksanvisning Index Everest.pdf",
+      "name": "1-5520_Bruksanvisning Index Everest.pdf",
+      "directory": "Index",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Index/1-5520_Bruksanvisning%20Index%20Everest.pdf"
+    },
+    {
+      "path": "Index/1-5525_Bruksanvisning Index Basic.pdf",
+      "name": "1-5525_Bruksanvisning Index Basic.pdf",
+      "directory": "Index",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Index/1-5525_Bruksanvisning%20Index%20Basic.pdf"
+    },
+    {
+      "path": "IrisVision/1-9300_Bruksanvisning IrisVision Live.pdf",
+      "name": "1-9300_Bruksanvisning IrisVision Live.pdf",
+      "directory": "IrisVision",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/IrisVision/1-9300_Bruksanvisning%20IrisVision%20Live.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 14 Snabbmanual.pdf",
+      "name": "JAWS 14 Snabbmanual.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2014%20Snabbmanual.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 14 Snabbtangenter.pdf",
+      "name": "JAWS 14 Snabbtangenter.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2014%20Snabbtangenter.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 15 Snabbmanual.pdf",
+      "name": "JAWS 15 Snabbmanual.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2015%20Snabbmanual.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 15 Snabbtangenter.pdf",
+      "name": "JAWS 15 Snabbtangenter.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2015%20Snabbtangenter.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 16 Snabbmanual.pdf",
+      "name": "JAWS 16 Snabbmanual.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2016%20Snabbmanual.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 16 Snabbtangenter.pdf",
+      "name": "JAWS 16 Snabbtangenter.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2016%20Snabbtangenter.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 17 Kort kommandon.pdf",
+      "name": "JAWS 17 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2017%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 17 Snabb Start Guide.pdf",
+      "name": "JAWS 17 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2017%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 18 Kort kommandon.pdf",
+      "name": "JAWS 18 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2018%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 18 Snabb Start Guide.pdf",
+      "name": "JAWS 18 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%2018%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2018 Kort kommandon.pdf",
+      "name": "JAWS 2018 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202018%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2018 Snabb Start Guide.pdf",
+      "name": "JAWS 2018 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202018%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2019 Kort kommandon.pdf",
+      "name": "JAWS 2019 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202019%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2019 Snabb Start Guide.pdf",
+      "name": "JAWS 2019 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202019%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2020 Kort kommandon.pdf",
+      "name": "JAWS 2020 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202020%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2020 Snabb Start Guide.pdf",
+      "name": "JAWS 2020 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202020%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2021 Kort kommandon.pdf",
+      "name": "JAWS 2021 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202021%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2021 Snabb Start Guide.pdf",
+      "name": "JAWS 2021 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202021%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2022 Kort kommandon.pdf",
+      "name": "JAWS 2022 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202022%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2022 Snabb Start Guide.pdf",
+      "name": "JAWS 2022 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202022%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2023 Kort kommandon.pdf",
+      "name": "JAWS 2023 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202023%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2023 Snabb Start Guide.pdf",
+      "name": "JAWS 2023 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202023%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2024 Kort kommandon.pdf",
+      "name": "JAWS 2024 Kort kommandon.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202024%20Kort%20kommandon.pdf"
+    },
+    {
+      "path": "JAWS/JAWS 2024 Snabb Start Guide.pdf",
+      "name": "JAWS 2024 Snabb Start Guide.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/JAWS%202024%20Snabb%20Start%20Guide.pdf"
+    },
+    {
+      "path": "JAWS/Snabbstart JAWS.pdf",
+      "name": "Snabbstart JAWS.pdf",
+      "directory": "JAWS",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/JAWS/Snabbstart%20JAWS.pdf"
+    },
+    {
+      "path": "LoganTech/1-5700_Bruksanvisning 6Dot.pdf",
+      "name": "1-5700_Bruksanvisning 6Dot.pdf",
+      "directory": "LoganTech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/LoganTech/1-5700_Bruksanvisning%206Dot.pdf"
+    },
+    {
+      "path": "Lucas/Bruksanvisning Vario 340.pdf",
+      "name": "Bruksanvisning Vario 340.pdf",
+      "directory": "Lucas",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Lucas/Bruksanvisning%20Vario%20340.pdf"
+    },
+    {
+      "path": "META/Bruksanvisning Oakley Meta HSTN.pdf",
+      "name": "Bruksanvisning Oakley Meta HSTN.pdf",
+      "directory": "META",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/META/Bruksanvisning%20Oakley%20Meta%20HSTN.pdf"
+    },
+    {
+      "path": "META/Bruksanvisning Oakley Meta Vanguard.pdf",
+      "name": "Bruksanvisning Oakley Meta Vanguard.pdf",
+      "directory": "META",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/META/Bruksanvisning%20Oakley%20Meta%20Vanguard.pdf"
+    },
+    {
+      "path": "META/Bruksanvisning Ray-Ban Meta 2.pdf",
+      "name": "Bruksanvisning Ray-Ban Meta 2.pdf",
+      "directory": "META",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/META/Bruksanvisning%20Ray-Ban%20Meta%202.pdf"
+    },
+    {
+      "path": "META/Bruksanvisning Ray-Ban Meta.pdf",
+      "name": "Bruksanvisning Ray-Ban Meta.pdf",
+      "directory": "META",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/META/Bruksanvisning%20Ray-Ban%20Meta.pdf"
+    },
+    {
+      "path": "Mjuka verktyg/3-4012_CX-manual-svenska v 6.08.pdf",
+      "name": "3-4012_CX-manual-svenska v 6.08.pdf",
+      "directory": "Mjuka verktyg",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Mjuka%20verktyg/3-4012_CX-manual-svenska%20v%206.08.pdf"
+    },
+    {
+      "path": "Mjuka verktyg/Installation av CX Word Förenklad.pdf",
+      "name": "Installation av CX Word Förenklad.pdf",
+      "directory": "Mjuka verktyg",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Mjuka%20verktyg/Installation%20av%20CX%20Word%20F%C3%B6renklad.pdf"
+    },
+    {
+      "path": "Mjuka verktyg/Manual CX Word förenklad 19.04.pdf",
+      "name": "Manual CX Word förenklad 19.04.pdf",
+      "directory": "Mjuka verktyg",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Mjuka%20verktyg/Manual%20CX%20Word%20f%C3%B6renklad%2019.04.pdf"
+    },
+    {
+      "path": "Mjuka verktyg/Sammanfattning CX Word Förenklad.pdf",
+      "name": "Sammanfattning CX Word Förenklad.pdf",
+      "directory": "Mjuka verktyg",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Mjuka%20verktyg/Sammanfattning%20CX%20Word%20F%C3%B6renklad.pdf"
+    },
+    {
+      "path": "Mobilis/Bruksanvisning Mobilis.pdf",
+      "name": "Bruksanvisning Mobilis.pdf",
+      "directory": "Mobilis",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Mobilis/Bruksanvisning%20Mobilis.pdf"
+    },
+    {
+      "path": "OpenBook_Pearl/Manual OpenBook och ONYX PHD.pdf",
+      "name": "Manual OpenBook och ONYX PHD.pdf",
+      "directory": "OpenBook_Pearl",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Manual%20OpenBook%20och%20ONYX%20PHD.pdf"
+    },
+    {
+      "path": "OpenBook_Pearl/Manual OpenBook och Pearl.pdf",
+      "name": "Manual OpenBook och Pearl.pdf",
+      "directory": "OpenBook_Pearl",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Manual%20OpenBook%20och%20Pearl.pdf"
+    },
+    {
+      "path": "OpenBook_Pearl/OpenBook Kortkommandon.pdf",
+      "name": "OpenBook Kortkommandon.pdf",
+      "directory": "OpenBook_Pearl",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/OpenBook%20Kortkommandon.pdf"
+    },
+    {
+      "path": "OpenBook_Pearl/Snabbguide OpenBook.pdf",
+      "name": "Snabbguide OpenBook.pdf",
+      "directory": "OpenBook_Pearl",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Snabbguide%20OpenBook.pdf"
+    },
+    {
+      "path": "OpenBook_Pearl/Snabbguide PEARL OpenBook.pdf",
+      "name": "Snabbguide PEARL OpenBook.pdf",
+      "directory": "OpenBook_Pearl",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Snabbguide%20PEARL%20OpenBook.pdf"
+    },
+    {
+      "path": "OpenBook_Pearl/Snabbguide PEARL.pdf",
+      "name": "Snabbguide PEARL.pdf",
+      "directory": "OpenBook_Pearl",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Snabbguide%20PEARL.pdf"
+    },
+    {
+      "path": "Orbit/Orbit Player Användarhandbok för 2.0 v7.pdf",
+      "name": "Orbit Player Användarhandbok för 2.0 v7.pdf",
+      "directory": "Orbit",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Orbit/Orbit%20Player%20Anv%C3%A4ndarhandbok%20f%C3%B6r%202.0%20v7.pdf"
+    },
+    {
+      "path": "OrCam/1-9200_Bruksanvisning Orcam MyEye Pro 2.pdf",
+      "name": "1-9200_Bruksanvisning Orcam MyEye Pro 2.pdf",
+      "directory": "OrCam",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OrCam/1-9200_Bruksanvisning%20Orcam%20MyEye%20Pro%202.pdf"
+    },
+    {
+      "path": "OrCam/1-9230_Bruksanvisning OrCam Read Pro_2.pdf",
+      "name": "1-9230_Bruksanvisning OrCam Read Pro_2.pdf",
+      "directory": "OrCam",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OrCam/1-9230_Bruksanvisning%20OrCam%20Read%20Pro_2.pdf"
+    },
+    {
+      "path": "OrCam/Lathund OrCam Read.pdf",
+      "name": "Lathund OrCam Read.pdf",
+      "directory": "OrCam",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OrCam/Lathund%20OrCam%20Read.pdf"
+    },
+    {
+      "path": "OrCam/Orcam Read 3 Bruksanvisning.pdf",
+      "name": "Orcam Read 3 Bruksanvisning.pdf",
+      "directory": "OrCam",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OrCam/Orcam%20Read%203%20Bruksanvisning.pdf"
+    },
+    {
+      "path": "OrCam/Video handledning OrCam Read Pro_2.pdf",
+      "name": "Video handledning OrCam Read Pro_2.pdf",
+      "directory": "OrCam",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/OrCam/Video%20handledning%20OrCam%20Read%20Pro_2.pdf"
+    },
+    {
+      "path": "Rehan/1-4500_AcuitySpeech_Lathund handkontroll.pdf",
+      "name": "1-4500_AcuitySpeech_Lathund handkontroll.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4500_AcuitySpeech_Lathund%20handkontroll.pdf"
+    },
+    {
+      "path": "Rehan/1-4500_AcuitySpeech_UserManual_SE_V2.1.pdf",
+      "name": "1-4500_AcuitySpeech_UserManual_SE_V2.1.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4500_AcuitySpeech_UserManual_SE_V2.1.pdf"
+    },
+    {
+      "path": "Rehan/1-4510_i-Reader2_Bruksanvisning_SE_V1.4-Arial.pdf",
+      "name": "1-4510_i-Reader2_Bruksanvisning_SE_V1.4-Arial.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4510_i-Reader2_Bruksanvisning_SE_V1.4-Arial.pdf"
+    },
+    {
+      "path": "Rehan/1-4510_i-Reader2_Bruksanvisning_SE_V1.5-Arial.pdf",
+      "name": "1-4510_i-Reader2_Bruksanvisning_SE_V1.5-Arial.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4510_i-Reader2_Bruksanvisning_SE_V1.5-Arial.pdf"
+    },
+    {
+      "path": "Rehan/1-4540_LookyBook_Bruksanvisning SE.pdf",
+      "name": "1-4540_LookyBook_Bruksanvisning SE.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4540_LookyBook_Bruksanvisning%20SE.pdf"
+    },
+    {
+      "path": "Rehan/1-4550_Manual Looky 5 HD V2.pdf",
+      "name": "1-4550_Manual Looky 5 HD V2.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4550_Manual%20Looky%205%20HD%20V2.pdf"
+    },
+    {
+      "path": "Rehan/1-4552_Manual Looky 4+.pdf",
+      "name": "1-4552_Manual Looky 4+.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4552_Manual%20Looky%204+.pdf"
+    },
+    {
+      "path": "Rehan/1-4555_Bruksanvisning Looky 7.pdf",
+      "name": "1-4555_Bruksanvisning Looky 7.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/1-4555_Bruksanvisning%20Looky%207.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning I-READER 2.pdf",
+      "name": "Bruksanvisning I-READER 2.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20I-READER%202.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 10_27.pdf",
+      "name": "Bruksanvisning Looky 10_27.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%2010_27.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 10_30.pdf",
+      "name": "Bruksanvisning Looky 10_30.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%2010_30.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 10_31.pdf",
+      "name": "Bruksanvisning Looky 10_31.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%2010_31.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 10_32.pdf",
+      "name": "Bruksanvisning Looky 10_32.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%2010_32.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 10_33.pdf",
+      "name": "Bruksanvisning Looky 10_33.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%2010_33.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 6.pdf",
+      "name": "Bruksanvisning Looky 6.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%206.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 7.2.pdf",
+      "name": "Bruksanvisning Looky 7.2.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%207.2.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 7.3.pdf",
+      "name": "Bruksanvisning Looky 7.3.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%207.3.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning Looky 7.pdf",
+      "name": "Bruksanvisning Looky 7.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20Looky%207.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning LOOKY MAG.pdf",
+      "name": "Bruksanvisning LOOKY MAG.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20LOOKY%20MAG.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning LOOKY ROUND.pdf",
+      "name": "Bruksanvisning LOOKY ROUND.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20LOOKY%20ROUND.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning LOOKYBOT.pdf",
+      "name": "Bruksanvisning LOOKYBOT.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20LOOKYBOT.pdf"
+    },
+    {
+      "path": "Rehan/Bruksanvisning LookyTAB 10.pdf",
+      "name": "Bruksanvisning LookyTAB 10.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Bruksanvisning%20LookyTAB%2010.pdf"
+    },
+    {
+      "path": "Rehan/IREADER Snabbguide.pdf",
+      "name": "IREADER Snabbguide.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/IREADER%20Snabbguide.pdf"
+    },
+    {
+      "path": "Rehan/Lathund Looky 7.pdf",
+      "name": "Lathund Looky 7.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Lathund%20Looky%207.pdf"
+    },
+    {
+      "path": "Rehan/Looky 10 Lathund.pdf",
+      "name": "Looky 10 Lathund.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Looky%2010%20Lathund.pdf"
+    },
+    {
+      "path": "Rehan/LookyTAB 10 snabbguide.pdf",
+      "name": "LookyTAB 10 snabbguide.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/LookyTAB%2010%20snabbguide.pdf"
+    },
+    {
+      "path": "Rehan/Snabbguide LOOKYBOT.pdf",
+      "name": "Snabbguide LOOKYBOT.pdf",
+      "directory": "Rehan",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Rehan/Snabbguide%20LOOKYBOT.pdf"
+    },
+    {
+      "path": "Reinecker/1-2050_ManoSta20sid.pdf",
+      "name": "1-2050_ManoSta20sid.pdf",
+      "directory": "Reinecker",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Reinecker/1-2050_ManoSta20sid.pdf"
+    },
+    {
+      "path": "Reinecker/1-2055_miniMAX_manual_se.pdf",
+      "name": "1-2055_miniMAX_manual_se.pdf",
+      "directory": "Reinecker",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Reinecker/1-2055_miniMAX_manual_se.pdf"
+    },
+    {
+      "path": "Reinecker/VEO Bruksanvisning_V1.1_swe.pdf",
+      "name": "VEO Bruksanvisning_V1.1_swe.pdf",
+      "directory": "Reinecker",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Reinecker/VEO%20Bruksanvisning_V1.1_swe.pdf"
+    },
+    {
+      "path": "Sensotech/Bruksanvisning Daisybox 1-1.pdf",
+      "name": "Bruksanvisning Daisybox 1-1.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/Bruksanvisning%20Daisybox%201-1.pdf"
+    },
+    {
+      "path": "Sensotech/Bruksanvisning GoVision.pdf",
+      "name": "Bruksanvisning GoVision.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/Bruksanvisning%20GoVision.pdf"
+    },
+    {
+      "path": "Sensotech/Bruksanvisning my Board BuddyAIR.pdf",
+      "name": "Bruksanvisning my Board BuddyAIR.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/Bruksanvisning%20my%20Board%20BuddyAIR.pdf"
+    },
+    {
+      "path": "Sensotech/Bruksanvisning OrCam Read stand med högtalare.pdf",
+      "name": "Bruksanvisning OrCam Read stand med högtalare.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/Bruksanvisning%20OrCam%20Read%20stand%20med%20h%C3%B6gtalare.pdf"
+    },
+    {
+      "path": "Sensotech/Daisybox.pdf",
+      "name": "Daisybox.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/Daisybox.pdf"
+    },
+    {
+      "path": "Sensotech/my Board Buddy GO.pdf",
+      "name": "my Board Buddy GO.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/my%20Board%20Buddy%20GO.pdf"
+    },
+    {
+      "path": "Sensotech/my Board BuddyAIR.pdf",
+      "name": "my Board BuddyAIR.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/my%20Board%20BuddyAIR.pdf"
+    },
+    {
+      "path": "Sensotech/Snabbstart DAISYBox.pdf",
+      "name": "Snabbstart DAISYBox.pdf",
+      "directory": "Sensotech",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Sensotech/Snabbstart%20DAISYBox.pdf"
+    },
+    {
+      "path": "SolarGrove/Bruksanvisning VINE 3 C2.pdf",
+      "name": "Bruksanvisning VINE 3 C2.pdf",
+      "directory": "SolarGrove",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/SolarGrove/Bruksanvisning%20VINE%203%20C2.pdf"
+    },
+    {
+      "path": "TPGi/JAWS Inspect_Quick_Start_Guide.pdf",
+      "name": "JAWS Inspect_Quick_Start_Guide.pdf",
+      "directory": "TPGi",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/TPGi/JAWS%20Inspect_Quick_Start_Guide.pdf"
+    },
+    {
+      "path": "TPGi/JAWS_Inspect_User_Guide.pdf",
+      "name": "JAWS_Inspect_User_Guide.pdf",
+      "directory": "TPGi",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/TPGi/JAWS_Inspect_User_Guide.pdf"
+    },
+    {
+      "path": "VeraIT/3-4003_Manual TangoTouch 8.pdf",
+      "name": "3-4003_Manual TangoTouch 8.pdf",
+      "directory": "VeraIT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VeraIT/3-4003_Manual%20TangoTouch%208.pdf"
+    },
+    {
+      "path": "VeraIT/3-4005_Manual TangoTouch 8 tal.pdf",
+      "name": "3-4005_Manual TangoTouch 8 tal.pdf",
+      "directory": "VeraIT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VeraIT/3-4005_Manual%20TangoTouch%208%20tal.pdf"
+    },
+    {
+      "path": "VeraIT/Bruksanvisning Tango Kids _MAC.pdf",
+      "name": "Bruksanvisning Tango Kids _MAC.pdf",
+      "directory": "VeraIT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VeraIT/Bruksanvisning%20Tango%20Kids%20_MAC.pdf"
+    },
+    {
+      "path": "VeraIT/Bruksanvisning Tango Kids.pdf",
+      "name": "Bruksanvisning Tango Kids.pdf",
+      "directory": "VeraIT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VeraIT/Bruksanvisning%20Tango%20Kids.pdf"
+    },
+    {
+      "path": "VeraIT/Bruksanvisning Tango Touch 10 MAC.pdf",
+      "name": "Bruksanvisning Tango Touch 10 MAC.pdf",
+      "directory": "VeraIT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VeraIT/Bruksanvisning%20Tango%20Touch%2010%20MAC.pdf"
+    },
+    {
+      "path": "VeraIT/Bruksanvisning Tango Touch 10.pdf",
+      "name": "Bruksanvisning Tango Touch 10.pdf",
+      "directory": "VeraIT",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VeraIT/Bruksanvisning%20Tango%20Touch%2010.pdf"
+    },
+    {
+      "path": "Viewplus/1-5620 VP EmBraille.pdf",
+      "name": "1-5620 VP EmBraille.pdf",
+      "directory": "Viewplus",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Viewplus/1-5620%20VP%20EmBraille.pdf"
+    },
+    {
+      "path": "Viewplus/Emprint-Manual Eng.pdf",
+      "name": "Emprint-Manual Eng.pdf",
+      "directory": "Viewplus",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Viewplus/Emprint-Manual%20Eng.pdf"
+    },
+    {
+      "path": "Viewplus/SpotDot-Manual Eng.pdf",
+      "name": "SpotDot-Manual Eng.pdf",
+      "directory": "Viewplus",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Viewplus/SpotDot-Manual%20Eng.pdf"
+    },
+    {
+      "path": "Viewplus/TSS-5.0-Manual.docx",
+      "name": "TSS-5.0-Manual.docx",
+      "directory": "Viewplus",
+      "extension": "docx",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Viewplus/TSS-5.0-Manual.docx"
+    },
+    {
+      "path": "VisioBraille/1-6030_1-6035_Bruksanvisning VarioUltra 1.4.pdf",
+      "name": "1-6030_1-6035_Bruksanvisning VarioUltra 1.4.pdf",
+      "directory": "VisioBraille",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/1-6030_1-6035_Bruksanvisning%20VarioUltra%201.4.pdf"
+    },
+    {
+      "path": "VisioBraille/1-6440_Vario 440 Användarmanual v 1.00.pdf",
+      "name": "1-6440_Vario 440 Användarmanual v 1.00.pdf",
+      "directory": "VisioBraille",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/1-6440_Vario%20440%20Anv%C3%A4ndarmanual%20v%201.00.pdf"
+    },
+    {
+      "path": "VisioBraille/1-6880_Manual_VisioDesk_16pkt.pdf",
+      "name": "1-6880_Manual_VisioDesk_16pkt.pdf",
+      "directory": "VisioBraille",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/1-6880_Manual_VisioDesk_16pkt.pdf"
+    },
+    {
+      "path": "VisioBraille/1-6890_Manual_VisioBook_16pkt.pdf",
+      "name": "1-6890_Manual_VisioBook_16pkt.pdf",
+      "directory": "VisioBraille",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/1-6890_Manual_VisioBook_16pkt.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/1-5386_VarioConnect svensk anvandarmanual.pdf",
+      "name": "1-5386_VarioConnect svensk anvandarmanual.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/1-5386_VarioConnect%20svensk%20anvandarmanual.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/1-5810_SuperVario2 manual svensk.pdf",
+      "name": "1-5810_SuperVario2 manual svensk.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/1-5810_SuperVario2%20manual%20svensk.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/1-5840_Manual Pronto 18 V3.3.pdf",
+      "name": "1-5840_Manual Pronto 18 V3.3.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/1-5840_Manual%20Pronto%2018%20V3.3.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/1-6000_Visio användarmanual.pdf",
+      "name": "1-6000_Visio användarmanual.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/1-6000_Visio%20anv%C3%A4ndarmanual.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/1-6050_Bruksanvisning Vario 340.pdf",
+      "name": "1-6050_Bruksanvisning Vario 340.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/1-6050_Bruksanvisning%20Vario%20340.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Poet Compact 2 Plus.pdf",
+      "name": "Manual Poet Compact 2 Plus.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Poet%20Compact%202%20Plus.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Poet Compact 2.pdf",
+      "name": "Manual Poet Compact 2.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Poet%20Compact%202.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Pronto 18 V3.3 Hela.pdf",
+      "name": "Manual Pronto 18 V3.3 Hela.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Pronto%2018%20V3.3%20Hela.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Pronto 18 V3.3.pdf",
+      "name": "Manual Pronto 18 V3.3.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Pronto%2018%20V3.3.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Pronto 40 V3.3.pdf",
+      "name": "Manual Pronto 40 V3.3.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Pronto%2040%20V3.3.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Pronto QS V3.3.pdf",
+      "name": "Manual Pronto QS V3.3.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Pronto%20QS%20V3.3.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Manual Pronto v4 svensk.pdf",
+      "name": "Manual Pronto v4 svensk.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Manual%20Pronto%20v4%20svensk.pdf"
+    },
+    {
+      "path": "VisioBraille/Gamla modeller/Poet anvandarmanual svensk 3.pdf",
+      "name": "Poet anvandarmanual svensk 3.pdf",
+      "directory": "VisioBraille/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/VisioBraille/Gamla%20modeller/Poet%20anvandarmanual%20svensk%203.pdf"
+    },
+    {
+      "path": "Visus/1-1060_Bruksanvisning Contrast HD.pdf",
+      "name": "1-1060_Bruksanvisning Contrast HD.pdf",
+      "directory": "Visus",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/1-1060_Bruksanvisning%20Contrast%20HD.pdf"
+    },
+    {
+      "path": "Visus/1-1120_Visus_Cmore_ICON _190618_1.pdf",
+      "name": "1-1120_Visus_Cmore_ICON _190618_1.pdf",
+      "directory": "Visus",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/1-1120_Visus_Cmore_ICON%20_190618_1.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1000_ Contus_HD_V120808-1.pdf",
+      "name": "1-1000_ Contus_HD_V120808-1.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1000_%20Contus_HD_V120808-1.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1008_Tempus HD 20 manual svensk v_120808-1.pdf",
+      "name": "1-1008_Tempus HD 20 manual svensk v_120808-1.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1008_Tempus%20HD%2020%20manual%20svensk%20v_120808-1.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1015_Tempus PC HD.pdf",
+      "name": "1-1015_Tempus PC HD.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1015_Tempus%20PC%20HD.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1030_Bruksanvisning Solo HD.pdf",
+      "name": "1-1030_Bruksanvisning Solo HD.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1030_Bruksanvisning%20Solo%20HD.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1040_CXHD_ v20110124-1.pdf",
+      "name": "1-1040_CXHD_ v20110124-1.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1040_CXHD_%20v20110124-1.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1130_Snow SE_V_120809.pdf",
+      "name": "1-1130_Snow SE_V_120809.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1130_Snow%20SE_V_120809.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/1-1131_Capture SE_V_120809.pdf",
+      "name": "1-1131_Capture SE_V_120809.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/1-1131_Capture%20SE_V_120809.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/cx hd v201025-1.pdf",
+      "name": "cx hd v201025-1.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/cx%20hd%20v201025-1.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/CX-manual-svenska v 6.08.pdf",
+      "name": "CX-manual-svenska v 6.08.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/CX-manual-svenska%20v%206.08.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/CX_SCX_VIC_komplett_sv.pdf",
+      "name": "CX_SCX_VIC_komplett_sv.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/CX_SCX_VIC_komplett_sv.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/Installation av CX Word Förenklad.pdf",
+      "name": "Installation av CX Word Förenklad.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/Installation%20av%20CX%20Word%20F%C3%B6renklad.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/Keypad_CX.pdf",
+      "name": "Keypad_CX.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/Keypad_CX.pdf"
+    },
+    {
+      "path": "Visus/Gamla modeller/Manual CX Word förenklad 19.04.pdf",
+      "name": "Manual CX Word förenklad 19.04.pdf",
+      "directory": "Visus/Gamla modeller",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Visus/Gamla%20modeller/Manual%20CX%20Word%20f%C3%B6renklad%2019.04.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 11.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 11.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%2011.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2018.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2018.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202018.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2019.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2019.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202019.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2020.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2020.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202020.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2021.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2021.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202021.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2022.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2022.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202022.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2023.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2023.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202023.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier 2024.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier 2024.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%202024.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier Reader 11.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier Reader 11.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier%20Reader%2011.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext Magnifier.pdf",
+      "name": "Bruksanvisning Zoomtext Magnifier.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20Magnifier.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2018.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2018.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202018.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2019.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2019.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202019.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2020.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2020.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202020.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2021.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2021.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202021.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2022.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2022.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202022.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2023.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2023.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202023.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader 2024.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader 2024.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader%202024.pdf"
+    },
+    {
+      "path": "Zoomtext/Bruksanvisning Zoomtext MagReader.pdf",
+      "name": "Bruksanvisning Zoomtext MagReader.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Bruksanvisning%20Zoomtext%20MagReader.pdf"
+    },
+    {
+      "path": "Zoomtext/insyn_zoomtext 10_snabbguide.pdf",
+      "name": "insyn_zoomtext 10_snabbguide.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/insyn_zoomtext%2010_snabbguide.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2018.pdf",
+      "name": "Manual Zoomtext 2018.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202018.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2019.pdf",
+      "name": "Manual Zoomtext 2019.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202019.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2020.pdf",
+      "name": "Manual Zoomtext 2020.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202020.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2021.pdf",
+      "name": "Manual Zoomtext 2021.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202021.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2022.pdf",
+      "name": "Manual Zoomtext 2022.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202022.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2023.pdf",
+      "name": "Manual Zoomtext 2023.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202023.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext 2024.pdf",
+      "name": "Manual Zoomtext 2024.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%202024.pdf"
+    },
+    {
+      "path": "Zoomtext/Manual Zoomtext MagReader.pdf",
+      "name": "Manual Zoomtext MagReader.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Manual%20Zoomtext%20MagReader.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 11 Manual.pdf",
+      "name": "ZoomText 11 Manual.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%2011%20Manual.pdf"
+    },
+    {
+      "path": "Zoomtext/Zoomtext 11 med gamla kortkommandon.pdf",
+      "name": "Zoomtext 11 med gamla kortkommandon.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Zoomtext%2011%20med%20gamla%20kortkommandon.pdf"
+    },
+    {
+      "path": "Zoomtext/Zoomtext 11 med nya kortkommandon.pdf",
+      "name": "Zoomtext 11 med nya kortkommandon.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Zoomtext%2011%20med%20nya%20kortkommandon.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2018 kortkommando.pdf",
+      "name": "ZoomText 2018 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202018%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2019 kortkommando.pdf",
+      "name": "ZoomText 2019 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202019%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2020 kortkommando.pdf",
+      "name": "ZoomText 2020 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202020%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2021 kortkommando.pdf",
+      "name": "ZoomText 2021 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202021%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2022 kortkommando.pdf",
+      "name": "ZoomText 2022 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202022%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2023 kortkommando.pdf",
+      "name": "ZoomText 2023 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202023%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/ZoomText 2024 kortkommando.pdf",
+      "name": "ZoomText 2024 kortkommando.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/ZoomText%202024%20kortkommando.pdf"
+    },
+    {
+      "path": "Zoomtext/Zoomtext Logic tangentbord.pdf",
+      "name": "Zoomtext Logic tangentbord.pdf",
+      "directory": "Zoomtext",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Zoomtext/Zoomtext%20Logic%20tangentbord.pdf"
+    }
+  ]
+}
