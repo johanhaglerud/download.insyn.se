@@ -2,7 +2,7 @@
 
 Automatiskt index över [https://download.insyn.se/Insyn/Bruksanvisning/](https://download.insyn.se/Insyn/Bruksanvisning/).
 
-Antal filer: **337**
+Antal filer: **338**
 
 ## Acapela
 
@@ -268,6 +268,7 @@ Antal filer: **337**
 - [Snabbguide PEARL.pdf](https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Snabbguide%20PEARL.pdf)
 ## Orbit
 
+- [Bruksanvisning Orbit Flow 40.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Orbit/Bruksanvisning%20Orbit%20Flow%2040.pdf)
 - [Orbit Player Användarhandbok för 2.0 v7.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Orbit/Orbit%20Player%20Anv%C3%A4ndarhandbok%20f%C3%B6r%202.0%20v7.pdf)
 ## OrCam
 

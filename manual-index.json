@@ -1,6 +1,6 @@
 {
   "base_url": "https://download.insyn.se/Insyn/Bruksanvisning/",
-  "count": 337,
+  "count": 338,
   "files": [
     {
       "path": "Acapela/3-5700_Manual Infovox 4.pdf",
@@ -1471,6 +1471,13 @@
       "directory": "OpenBook_Pearl",
       "extension": "pdf",
       "url": "https://download.insyn.se/Insyn/Bruksanvisning/OpenBook_Pearl/Snabbguide%20PEARL.pdf"
+    },
+    {
+      "path": "Orbit/Bruksanvisning Orbit Flow 40.pdf",
+      "name": "Bruksanvisning Orbit Flow 40.pdf",
+      "directory": "Orbit",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Orbit/Bruksanvisning%20Orbit%20Flow%2040.pdf"
     },
     {
       "path": "Orbit/Orbit Player Användarhandbok för 2.0 v7.pdf",
