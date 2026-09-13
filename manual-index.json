@@ -1,6 +1,6 @@
 {
   "base_url": "https://download.insyn.se/Insyn/Bruksanvisning/",
-  "count": 338,
+  "count": 340,
   "files": [
     {
       "path": "Acapela/3-5700_Manual Infovox 4.pdf",
@@ -1156,6 +1156,20 @@
       "directory": "Hims",
       "extension": "pdf",
       "url": "https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20GoVision.pdf"
+    },
+    {
+      "path": "iamhable/Hable Easy Kommandon.pdf",
+      "name": "Hable Easy Kommandon.pdf",
+      "directory": "iamhable",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/iamhable/Hable%20Easy%20Kommandon.pdf"
+    },
+    {
+      "path": "iamhable/Snabbguide Hable Easy.pdf",
+      "name": "Snabbguide Hable Easy.pdf",
+      "directory": "iamhable",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/iamhable/Snabbguide%20Hable%20Easy.pdf"
     },
     {
       "path": "Index/1-5520_Bruksanvisning Index Everest.pdf",

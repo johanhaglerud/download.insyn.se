@@ -2,7 +2,7 @@
 
 Automatiskt index över [https://download.insyn.se/Insyn/Bruksanvisning/](https://download.insyn.se/Insyn/Bruksanvisning/).
 
-Antal filer: **338**
+Antal filer: **340**
 
 ## Acapela
 
@@ -203,6 +203,10 @@ Antal filer: **338**
 - [Bruksanvisning Braille eMotion 40.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20Braille%20eMotion%2040.pdf)
 - [Bruksanvisning BrailleSense 6.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20BrailleSense%206.pdf)
 - [Bruksanvisning GoVision.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20GoVision.pdf)
+## iamhable
+
+- [Hable Easy Kommandon.pdf](https://download.insyn.se/Insyn/Bruksanvisning/iamhable/Hable%20Easy%20Kommandon.pdf)
+- [Snabbguide Hable Easy.pdf](https://download.insyn.se/Insyn/Bruksanvisning/iamhable/Snabbguide%20Hable%20Easy.pdf)
 ## Index
 
 - [1-5520_Bruksanvisning Index Everest.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Index/1-5520_Bruksanvisning%20Index%20Everest.pdf)
