@@ -1,6 +1,6 @@
 {
   "base_url": "https://download.insyn.se/Insyn/Bruksanvisning/",
-  "count": 340,
+  "count": 343,
   "files": [
     {
       "path": "Acapela/3-5700_Manual Infovox 4.pdf",
@@ -316,6 +316,20 @@
       "directory": "Eschenbach",
       "extension": "pdf",
       "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/6-36551_Bruksanvisning%20Visolux%20Digital%20HD.pdf"
+    },
+    {
+      "path": "Eschenbach/Bruksanvisning_vario DIGITAL 22_Advanced T.pdf",
+      "name": "Bruksanvisning_vario DIGITAL 22_Advanced T.pdf",
+      "directory": "Eschenbach",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/Bruksanvisning_vario%20DIGITAL%2022_Advanced%20T.pdf"
+    },
+    {
+      "path": "Eschenbach/Bruksanvisning_visolux_DIGITAL_HD.pdf",
+      "name": "Bruksanvisning_visolux_DIGITAL_HD.pdf",
+      "directory": "Eschenbach",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/Bruksanvisning_visolux_DIGITAL_HD.pdf"
     },
     {
       "path": "Eschenbach/manual_basic visionLED_-_04-19.pdf",
@@ -1037,6 +1051,13 @@
       "directory": "Freedom",
       "extension": "pdf",
       "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Kom%20ig%C3%A5ng%20RUBY%2010.pdf"
+    },
+    {
+      "path": "Freedom/manual focus 14 blue v5_3 (DTB).zip",
+      "name": "manual focus 14 blue v5_3 (DTB).zip",
+      "directory": "Freedom",
+      "extension": "zip",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Freedom/manual%20focus%2014%20blue%20v5_3%20(DTB).zip"
     },
     {
       "path": "Freedom/Zoomtext tangentbord anvisning.pdf",

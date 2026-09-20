@@ -2,7 +2,7 @@
 
 Automatiskt index över [https://download.insyn.se/Insyn/Bruksanvisning/](https://download.insyn.se/Insyn/Bruksanvisning/).
 
-Antal filer: **340**
+Antal filer: **343**
 
 ## Acapela
 
@@ -63,6 +63,8 @@ Antal filer: **340**
 ## Eschenbach
 
 - [6-36551_Bruksanvisning Visolux Digital HD.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/6-36551_Bruksanvisning%20Visolux%20Digital%20HD.pdf)
+- [Bruksanvisning_vario DIGITAL 22_Advanced T.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/Bruksanvisning_vario%20DIGITAL%2022_Advanced%20T.pdf)
+- [Bruksanvisning_visolux_DIGITAL_HD.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/Bruksanvisning_visolux_DIGITAL_HD.pdf)
 - [manual_basic visionLED_-_04-19.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/manual_basic%20visionLED_-_04-19.pdf)
 - [manual_economy visionLED_-_04-19.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/manual_economy%20visionLED_-_04-19.pdf)
 - [manual_pure visionLED_-_04-19.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Eschenbach/manual_pure%20visionLED_-_04-19.pdf)
@@ -178,6 +180,7 @@ Antal filer: **340**
 ## Freedom
 
 - [Kom igång RUBY 10.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Kom%20ig%C3%A5ng%20RUBY%2010.pdf)
+- [manual focus 14 blue v5_3 (DTB).zip](https://download.insyn.se/Insyn/Bruksanvisning/Freedom/manual%20focus%2014%20blue%20v5_3%20(DTB).zip)
 - [Zoomtext tangentbord anvisning.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Freedom/Zoomtext%20tangentbord%20anvisning.pdf)
 ## Fusion
 
