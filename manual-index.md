@@ -2,7 +2,7 @@
 
 Automatiskt index över [https://download.insyn.se/Insyn/Bruksanvisning/](https://download.insyn.se/Insyn/Bruksanvisning/).
 
-Antal filer: **343**
+Antal filer: **344**
 
 ## Acapela
 
@@ -205,6 +205,7 @@ Antal filer: **343**
 
 - [Bruksanvisning Braille eMotion 40.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20Braille%20eMotion%2040.pdf)
 - [Bruksanvisning BrailleSense 6.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20BrailleSense%206.pdf)
+- [Bruksanvisning BrailleSense 7.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20BrailleSense%207.pdf)
 - [Bruksanvisning GoVision.pdf](https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20GoVision.pdf)
 ## iamhable
 

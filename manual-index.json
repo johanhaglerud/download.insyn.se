@@ -1,6 +1,6 @@
 {
   "base_url": "https://download.insyn.se/Insyn/Bruksanvisning/",
-  "count": 343,
+  "count": 344,
   "files": [
     {
       "path": "Acapela/3-5700_Manual Infovox 4.pdf",
@@ -1170,6 +1170,13 @@
       "directory": "Hims",
       "extension": "pdf",
       "url": "https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20BrailleSense%206.pdf"
+    },
+    {
+      "path": "Hims/Bruksanvisning BrailleSense 7.pdf",
+      "name": "Bruksanvisning BrailleSense 7.pdf",
+      "directory": "Hims",
+      "extension": "pdf",
+      "url": "https://download.insyn.se/Insyn/Bruksanvisning/Hims/Bruksanvisning%20BrailleSense%207.pdf"
     },
     {
       "path": "Hims/Bruksanvisning GoVision.pdf",
